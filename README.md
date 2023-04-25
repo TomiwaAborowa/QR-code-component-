@@ -14,8 +14,8 @@ Solution to the QR code component challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://qr-code-display.netlify.app/)
+- Live Site URL: [Live site](https://qr-code-display.netlify.app/)
 
 ## My process
 
@@ -48,7 +48,7 @@ I learnt how to put the CSS property (margin and border-radius) to use.
 
 ## Author
 
-- Website - [Tomiwa](https://www.your-site.com)
+- Website - [Tomiwa](https://qr-code-display.netlify.app/)
 - Frontend Mentor - [@TomiwaAborowa](https://www.frontendmentor.io/profile/TomiwaAborowa)
 - Twitter - [@yourusername](https://twitter.com/Spadepie007)
 
